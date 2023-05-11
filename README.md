@@ -1,6 +1,6 @@
 # Repositório de Estruturas de Dados em C
 
-Este repositório contém uma coleção de códigos de estruturas de dados implementados em C.
+Este repositório contém uma coleção de códigos-fonte de estruturas de dados em C. Aqui você encontrará implementações de listas encadeadas, filas, pilhas, deques, árvores binárias, tabelas hash e muito mais. 
 
 ## Comandos exclusivos do Windows
 
