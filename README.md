@@ -2,6 +2,15 @@
 
 Este repositório contém uma coleção de códigos-fonte de estruturas de dados em C. Aqui você encontrará implementações de listas encadeadas, filas, pilhas, deques, árvores binárias, tabelas hash e muito mais. 
 
+## Estruturas de Dados Atualmente Disponíveis
+Aqui está uma lista das estruturas de dados atualmente disponíveis neste repositório:
+
+### Estático:
+
+### Dinâmico:
+- Fila (Dinâmica)
+- Deque (Dinâmico)
+
 ## Comandos exclusivos do Windows
 
 Alguns comandos utilizados nos códigos são exclusivos do Windows, como `system("pause")` e `system("cls")`. Caso esteja executando o código em um sistema operacional Linux, você pode utilizar as seguintes alternativas, respectivamente:
